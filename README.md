@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rohan
+- 👋 Hi, I’m Kshitij Kumar Singh
 - 👀 I’m interested in coding and chess
-- 🌱 I’m currently learning java
-- 📫 How to reach me - Laketown,Kolkata
+- 📫 How to reach me - rohansingh2804@gmail.com
 
 <!---
 rohancodin/rohancodin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

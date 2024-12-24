@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kshitij Kumar Singh
-- 👀 I’m interested in coding and chess
-- 📫 How to reach me - rohansingh2804@gmail.com
+- 📫 How to reach me - kshitijk.singh.min24@itbhu.ac.in
 
 <!---
 rohancodin/rohancodin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
